@@ -6,8 +6,8 @@
 %global crate actix-server
 
 Name:           rust-%{crate}
-Version:        1.0.0
-Release:        2%{?dist}
+Version:        2.6.0
+Release:        1%{?dist}
 Summary:        Actix server - General purpose tcp server
 
 # Upstream license specification: MIT/Apache-2.0
